@@ -1,0 +1,5 @@
+com\umariana\mundo\Usuario.class
+com\umariana\mundo\Control.class
+com\umariana\mundo\JAXRSConfiguration.class
+com\umariana\tareas\resources\JavaEE8Resource.class
+servlet\SvUsuarios.class
