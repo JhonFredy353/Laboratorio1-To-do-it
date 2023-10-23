@@ -1,6 +1,6 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<% String nombreUsuario = request.getParameter("nombreUsuario"); %>
+
 <!DOCTYPE html>
 <html>
     <head>
